@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://samibanks01.github.io/schedule/index.html</loc>
+    <loc>https://samibanks01.github.io/iwrite/schedule/index.html</loc>
     
     <lastmod>2024-04-18</lastmod>
     
@@ -11,7 +11,7 @@
   </url>
   
   <url>
-    <loc>https://samibanks01.github.io/categories/index.html</loc>
+    <loc>https://samibanks01.github.io/iwrite/categories/index.html</loc>
     
     <lastmod>2024-04-18</lastmod>
     
@@ -20,7 +20,7 @@
   </url>
   
   <url>
-    <loc>https://samibanks01.github.io/tags/index.html</loc>
+    <loc>https://samibanks01.github.io/iwrite/tags/index.html</loc>
     
     <lastmod>2024-04-18</lastmod>
     
@@ -29,7 +29,7 @@
   </url>
   
   <url>
-    <loc>https://samibanks01.github.io/about/index.html</loc>
+    <loc>https://samibanks01.github.io/iwrite/about/index.html</loc>
     
     <lastmod>2024-04-18</lastmod>
     
@@ -38,7 +38,7 @@
   </url>
   
   <url>
-    <loc>https://samibanks01.github.io/2024/04/18/hello-world/</loc>
+    <loc>https://samibanks01.github.io/iwrite/2024/04/18/hello-world/</loc>
     
     <lastmod>2024-04-18</lastmod>
     
@@ -48,7 +48,7 @@
   
 
   <url>
-    <loc>https://samibanks01.github.io/</loc>
+    <loc>https://samibanks01.github.io/iwrite</loc>
     <lastmod>2024-04-18</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
