@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://samibanks01.github.io/iwrite/2024/04/18/Init-0-My-Blog-initializes/</loc>
+    
+    <lastmod>2024-04-18</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://samibanks01.github.io/iwrite/schedule/index.html</loc>
     
     <lastmod>2024-04-18</lastmod>
@@ -30,15 +39,6 @@
   
   <url>
     <loc>https://samibanks01.github.io/iwrite/about/index.html</loc>
-    
-    <lastmod>2024-04-18</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://samibanks01.github.io/iwrite/2024/04/18/hello-world/</loc>
     
     <lastmod>2024-04-18</lastmod>
     
